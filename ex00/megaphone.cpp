@@ -7,7 +7,7 @@ int main(int argc, char **argv) {
 
 	if (argc == 1)
 	{
-		std::cout << "plus de pile !" << std::endl;
+		std::cout << "** Plus de pile ! **" << std::endl;
 		return 0;
 	}
 	while (argc-- != 1)
